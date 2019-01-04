@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "React.JS Client with Ruby on Rails API. Stage 1: Conceptualization"
-date:       2019-01-04 18:21:51 +0000
+date:       2019-01-04 13:21:52 -0500
 permalink:  react_js_client_with_ruby_on_rails_api_stage_1_conceptualization
 ---
 
 
-![](https://www.flickr.com/photos/115389063@N04/46550890362/in/dateposted-public/)
 App development is about solving problems. There is a need in the world and an app may help to address it. What is that need?
 
 Technologies can make our lives easier, more efficient, and more convenient. This is the luxury we take advantage of in a lot of aspects of our lives. Uber is just a click away on your phone, a favorite video is instantly accessible while you are relaxing on a couch, any item of food/furniture/etc can be ordered by a verbal request through Alexa and delivered straight to your door. Is that not awesome?
