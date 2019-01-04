@@ -5,7 +5,6 @@ date:       2019-01-04 13:21:52 -0500
 permalink:  react_js_client_with_ruby_on_rails_api_stage_1_conceptualization
 ---
 
-
 ![](https://farm5.staticflickr.com/4817/46550890362_87647d6871_b.jpg)
 App development is about solving problems. There is a need in the world and an app may help to address it. What is that need?
 
