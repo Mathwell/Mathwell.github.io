@@ -8,7 +8,7 @@ permalink:  dijkstra_s_algorithm
 
 ![](https://farm8.staticflickr.com/7909/32489335677_d40418fb39_z.jpg)
 
-One of the question in my resent code challenge for related to physical algorithm. challenge where one of the . I was explained ahead of time that during the test I will be  asked to write an algorithm to solve a problem related to the physical world. e.g. Given the topology of a mountain pass as an array, write an algorithm to figure out the cheapest way to build a road over the pass. 
+One of the question in my resent code challenge was related to physical algorithm.  I was explained ahead of time that during the test I will be  asked to write an algorithm to solve a problem related to the physical world. e.g. Given the topology of a mountain pass as an array, write an algorithm to figure out the cheapest way to build a road over the pass. 
 
 First that came to my mind after reading that was Dijkstra's algorithm also known as Dijkstra's Shortest Path First algorithm or, SPF algorithm. In many real world situations we a looking for an efficient solution - shortest in distance or cheapest by cost. Conceived by computer scientist Edsger W. Dijkstra in 1956 and published three years later the algorithm that is used to calculate the shortest path between two nodes on a graph, now days even has applications in routing network traffic, machine learning, and artificial intelligence. 
 
