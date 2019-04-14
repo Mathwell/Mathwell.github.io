@@ -35,7 +35,7 @@ React decided to combine UI templates and inline JavaScript logic, which no comp
 
 Angular uses templates that are enhanced HTML with Angular directives (“ng-if” or “ng-for”). React only requires knowledge of JavaScript, but with Angular, you must learn its specific syntax.
 
-**Testing ** 
+***Testing  ***
 
 Jest is used by Facebook to tests its React code. It is included in every React project and requires zero configuration to use. It also includes a powerful mocking library. Many times Jest is used in combination with Enzyme (a JavaScript testing utility used at Airbnb).
 Jasmine is a testing framework that can be used in Angular. Eric Elliott says that Jasmine “results in millions of ways to write tests and assertions, needing to carefully read each one to understand what it’s doing”. 
