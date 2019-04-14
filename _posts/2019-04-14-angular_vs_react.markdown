@@ -1,12 +1,13 @@
 ---
 layout: post
 title:      "Angular vs React"
-date:       2019-04-14 17:00:17 +0000
+date:       2019-04-14 13:00:18 -0400
 permalink:  angular_vs_react
 ---
 
 
 ***History ***
+
 Angular is a JavaScript framework written in TypeScript. It was developed and is maintained by Google, and is described as a “Superheroic JavaScript MVWFramework” on Angular’s webpage. Angular (version 2 and above), originally released in September 2016, is a complete rewrite of AngularJS (released in October 2010).
 
 React is a JavaScript library developed and maintained by Facebook. It was released in March 2013 and is described as “a JavaScript library for building user interfaces”.
@@ -14,7 +15,7 @@ React is a JavaScript library developed and maintained by Facebook. It was relea
 Both Frameworks are available under the MIT license.
 
 
-***Architecture***
+***Architecture*** 
 
 *1.	Angular is a framework – React is a library*
 
@@ -34,14 +35,15 @@ React decided to combine UI templates and inline JavaScript logic, which no comp
 
 Angular uses templates that are enhanced HTML with Angular directives (“ng-if” or “ng-for”). React only requires knowledge of JavaScript, but with Angular, you must learn its specific syntax.
 
-**Testing **
+**Testing ** 
 
 Jest is used by Facebook to tests its React code. It is included in every React project and requires zero configuration to use. It also includes a powerful mocking library. Many times Jest is used in combination with Enzyme (a JavaScript testing utility used at Airbnb).
 Jasmine is a testing framework that can be used in Angular. Eric Elliott says that Jasmine “results in millions of ways to write tests and assertions, needing to carefully read each one to understand what it’s doing”. 
 
 
-**Companies Using**
-*React:*
+**Companies Using** 
+
+*React:* 
 •	Facebook
 •	Airbnb
 •	Uber
@@ -49,6 +51,7 @@ Jasmine is a testing framework that can be used in Angular. Eric Elliott says th
 •	Instagram
 •	WhatsApp
 •	Dropbox
+
 *Angular:*
 •	Google
 •	Nike
@@ -59,7 +62,8 @@ Jasmine is a testing framework that can be used in Angular. Eric Elliott says th
 •	Sony
 
 
-***Conclusion***
+***Conclusion*** 
+
 React and Angular are two titans in a cutthroat industry. In a business where only the strongest survive, you can easily conclude that these are some of the best technologies on the market.
 Popularity statistics of both technologies in 2018 could be found  [here](https://insights.stackoverflow.com/survey/2018#most-loved-dreaded-and-wanted)
 
