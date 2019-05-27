@@ -55,7 +55,7 @@ It turned out that the problem I was given was much simplier that I had been pre
 Here is my solution to the problem:
 
 function solution(A) {
-    // write your code in JavaScript (Node.js 8.9.4)
+   
       let castleCount=2
       let start=0
       let current=A[0]
