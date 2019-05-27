@@ -1,15 +1,14 @@
 # Site settings
+author: Olena
 title: Hello world!
 header-img: img/home-bg.png
 email: eageeva@hotmail.com
-copyright_name: Mathwell
+copyright_name: Olena
 description: > # this means to ignore newlines until "baseurl:"
   my coding adventure 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Mathwell
-learn_profile: Mathwell
-email_username: eageeva@hotmail.com
 
 # Build settings
 markdown: kramdown
