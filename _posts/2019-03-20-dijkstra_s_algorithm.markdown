@@ -52,3 +52,35 @@ Algorithm in Javascript  could be found [here.](https://www.tutorialspoint.com/D
 
 It turned out that the problem I was given was much simplier that I had been preparing for and the  Dijkstra’s Algorithm for that task would be an overkill that would've made a solution more complex that it should be. Here is the problem: ![](https://live.staticflickr.com/65535/47942635183_456f8e9533_z.jpg)
 
+Here is my solution to the problem:
+
+function solution(A) {
+    // write your code in JavaScript (Node.js 8.9.4)
+      let castleCount=2
+      let start=0
+      let current=A[0]
+
+      let i=0
+      while( i<A.length){
+          while(current==A[i])  i++
+
+          if (start!==0 && i!==A.length-1){
+            if (A[start-1]>A[start]&&A[i]>A[i-1] || A[start-1]<A[start]&&A[i]<A[i-1] ){
+              castleCount++
+            }
+          }
+          
+          if (start===0 && i===A.length){
+              castleCount--
+          }
+          start=i
+          current=A[i]
+          i++
+      }
+  return castleCount
+}
+
+The code challenge was timed - two hours sharp - and the problems were not given in advance which means that I had to understand the problem, come up with solution ideas and implement them witin the given time. That was one of the three problems given at the code challend. Two other problems were to gebug a ticky code with JS closure and to implement a mathematical algorithm.  And that was the pre-screening stage in the interview process. Tells a lot about current industry standarts. 
+
+
+
