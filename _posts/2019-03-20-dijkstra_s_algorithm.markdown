@@ -54,7 +54,8 @@ It turned out that the problem I was given was much simplier that I had been pre
 
 Here is my solution to the problem:
 
-function solution(A) {
+```
+function solution(A)  {
    
       let castleCount=2
       let start=0
@@ -78,7 +79,9 @@ function solution(A) {
           i++
       }
   return castleCount
+	
 }
+```
 
 The code challenge was timed - two hours sharp - and the problems were not given in advance which means that I had to understand the problem, come up with solution ideas and implement them witin the given time. That was one of the three problems given at the code challend. Two other problems were to gebug a ticky code with JS closure and to implement a mathematical algorithm.  And that was the pre-screening stage in the interview process. Tells a lot about current industry standarts. 
 
