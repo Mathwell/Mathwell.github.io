@@ -86,7 +86,7 @@ function solution(A)  {
 }
 ```
 
-The code challenge was timed - two hours sharp - and the problems were not given in advance which means that I had to understand the problem, come up with solution ideas and implement them witin the given time. That was one of the three problems given at the code challend. Two other problems were to gebug a ticky code with JS closure and to implement a mathematical algorithm.  And that was the pre-screening stage in the interview process. Tells a lot about current industry standarts. 
+The code challenge was timed - two hours sharp - and the problems were not given in advance which means that I had to understand the problem, come up with solution ideas and implement them witin the given time. That was one of the three problems given at the code challenge with an expectation to finish them all within two hours given. Two other problems were to gebug a ticky code with JS closure and to implement a math algorithm with recursion involved.  And that was only the pre-screening stage in the interview process. Tells a lot about current industry standarts. 
 
 
 
