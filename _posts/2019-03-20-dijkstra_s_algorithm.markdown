@@ -48,7 +48,7 @@ This algorithm calculates the shortest path from start point to all the nodes in
 A more general problem would be to find all the shortest paths between source and target (there might be several different ones of the same length). Then instead of storing only a single node in each entry of prev[] we would store all nodes satisfying the relaxation condition.
 
 One of the variations of this algorithm uses a priority queue. Such data structure leads to a faster computing time. 
-Algorithm in Javascript  could be found ![here.](https://www.tutorialspoint.com/Dijkstra-s-algorithm-in-Javascript) 
+Algorithm in Javascript  could be found [here.](https://www.tutorialspoint.com/Dijkstra-s-algorithm-in-Javascript) 
 
-It turned out that the problem I was given was much simplier that I had been preparing for and the  Dijkstra’s Algorithm for that task would be an overkill that would've made a solution more complex that it should be. ![Here is the problem:](https://live.staticflickr.com/65535/47942635183_456f8e9533_z.jpg)
+It turned out that the problem I was given was much simplier that I had been preparing for and the  Dijkstra’s Algorithm for that task would be an overkill that would've made a solution more complex that it should be. [Here is the problem:](https://live.staticflickr.com/65535/47942635183_456f8e9533_z.jpg)
 
