@@ -50,5 +50,5 @@ A more general problem would be to find all the shortest paths between source an
 One of the variations of this algorithm uses a priority queue. Such data structure leads to a faster computing time. 
 Algorithm in Javascript  could be found [here.](https://www.tutorialspoint.com/Dijkstra-s-algorithm-in-Javascript) 
 
-It turned out that the problem I was given was much simplier that I had been preparing for and the  Dijkstra’s Algorithm for that task would be an overkill that would've made a solution more complex that it should be. [Here is the problem:](https://live.staticflickr.com/65535/47942635183_456f8e9533_z.jpg)
+It turned out that the problem I was given was much simplier that I had been preparing for and the  Dijkstra’s Algorithm for that task would be an overkill that would've made a solution more complex that it should be. Here is the problem: ![](https://live.staticflickr.com/65535/47942635183_456f8e9533_z.jpg)
 
