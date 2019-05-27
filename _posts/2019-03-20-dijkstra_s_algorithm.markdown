@@ -20,7 +20,8 @@ For the algorithm to work, the graph must meet three conditions:
 
 The algorithm would take the Graph and starting and eding point.
 
-1  function Dijkstra(Graph, start, end):
+1```
+  function Dijkstra(Graph, start, end):
  2
  3      create vertex set Q
  4
@@ -42,6 +43,7 @@ The algorithm would take the Graph and starting and eding point.
 21                  prev[v] ← u 
 22
 23      return dist[], prev[]
+```
 
 This algorithm calculates the shortest path from start point to all the nodes in the Graph. If we are interested in only calculating the shortest path from start to end we can terminate algorithm after line 15 when u is equal to end. 
 
