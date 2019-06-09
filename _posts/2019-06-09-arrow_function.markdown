@@ -70,4 +70,53 @@ That one case was most likely what the arrow functions were created for. And jus
 ***Epilogue***
 
  At 6 am my cup is empty, my cats are gone, the room is all stuffed with a bright sunlight, and the whole world of ES6 is flipped upside down. And it will never be the same…   
+ 
+ 
+ Just for fun
+ Exercises from Kyle Simpson: Go crazy with an arrow functions and rewrite them to an arrow function and get experience all this mess yourself.
 
+
+
+
+>**Just for fun**
+>
+>Exercises from Kyle Simpson: Go crazy with and rewrite all bolow to arrow functions and get to experience all this >mess yourself.
+
+```
+function foo(x) {
+		var y = x * 2;
+
+		return function bar(z) {
+			if (z.length > 3) {
+				return z.map( function baz(v){
+					if (v > 3) return v + y;
+					else return baz( v * 4 );
+				} );
+			}
+			else {
+				var obj = [];
+
+				setTimeout( function bam(){
+					obj.length = 1;
+					obj[0] = this.w;
+				}.bind( this ), 100 );
+
+				return obj;
+			}
+		};
+	}
+
+	var p = foo( 2 );
+	var list1 = [1,3,4];
+	var list2 = list1.concat( 6 );
+
+	list1 = p.call( { w: 42 }, list1 );
+	list2 = p( list2 );
+
+	setTimeout( function(){
+		console.log( list1[0] === list2.reduce( function(s,v){
+			return s + v;
+		}, 0 ) );
+	}, 200 );
+})();
+```
