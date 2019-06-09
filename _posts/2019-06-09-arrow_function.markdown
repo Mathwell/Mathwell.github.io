@@ -62,7 +62,7 @@ var obj= {
     }
 }
 ```
-That one case was most likely what the arrow functions were created for. And just because they are so damn cute people start welcoming them to all random parties that are related to use of functions.
+That one case was most likely what the arrow functions were created for. And just because they are so damn cute people start welcoming them to all random parties that are related to use of functions by any means not realizing the real price they are paying for that - ennourmous negative impact on readability and functional predictability 
 
 *With all said above I am now a proud endorser of the idea of a critical thinking and trusting one’s intuition. Is the new YYY really the old XXX? May be the new YYY was just conveniently created to complement the old XXX and shine where the XXX really straggles, but not completely replace where the XXX has excelled for years and can perfectly do so for many more to come.*
 
