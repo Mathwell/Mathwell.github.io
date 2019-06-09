@@ -22,14 +22,14 @@ It’s time to ask that one question: “Why exactly the arrow functions are a b
 
 
 1. Variations in syntax is a detractor from an overall value
-         * ()=>3 – if number of arguments is 0, >1, spread, non-traditional  arguments are in parenthesis
-         * x=>3 – 1 argument is not in parenthesis
-         * (…x) => 3 – visual hiccup? Is there a function invocation?
-         * (x,y) => 3
-         * var foo = => 3 – does not confuse you? at all??? 
-         * _=>3
-         * 	=>3
-         * x=>({a:b}) – object is in parenthesis
+*          * ()=>3 – if number of arguments is 0, >1, spread, non-traditional  arguments are in parenthesis
+*          * x=>3 – 1 argument is not in parenthesis
+*          * (…x) => 3 – visual hiccup? Is there a function invocation?
+*          * (x,y) => 3
+*          * var foo = => 3 – does not confuse you? at all??? 
+*          * _=>3
+*          * 	=>3
+*          * x=>({a:b}) – object is in parenthesis
          
 2. Statement and expression confusion. Statements are not valid for a concise form
          * x => { try {3} catch(e) {} } – statement, not expression – not going to work
