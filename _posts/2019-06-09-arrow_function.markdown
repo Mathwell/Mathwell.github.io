@@ -41,7 +41,7 @@ It’s time to ask that one question: “Why exactly the arrow functions are a b
 4.	Syntactical anonymousness
 *          can’t self-reference (recursion, event handler that needs to unbind itself)
 *          non-visible in a stack traces, so are non-debuggable
-*          name inferencing does not work for functions as argument of other functions which are 99.999% of all arrow functions are  
+*          name inferencing does not work for functions as argument of other functions which 99.999% of all arrow functions are  
 5.	Promises 
 *          hard to debug due to  anonymousness when exception thrown
 6.	Decision flow chart. Is this the one you really want to run through every time you make a decision if to write an arrow function? The word “function” is definitely could be typed faster then going though all these steps.
