@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Axios vs Fetch"
-date:       2019-04-07 17:17:22 +0000
+date:       2019-04-07 13:17:23 -0400
 permalink:  axios_vs_fetch
 ---
 
@@ -12,26 +12,29 @@ One of the stable library to substitute the native fetch is axios. Axios is a Ja
 
 First, we have to install axios on the command line:
 
-npm install axios
+`npm install axios`
 
 To use it with React app we have to import it in the app
 
-import  axios from  'axios';
+`import  axios from  'axios';`
 
 Now we can use axios instead of fetch()  in almost identical way. It takes the URL as an argument and returns a promise. The result does not have to transform the returned response to JSON anymore. 
 
 If you use .fetch() there is a two-step process when handing JSON data. The first is to make the actual request and then the second is to call the .json() method on the response.
 
+```
 const url = 'https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF'
 
 fetch(url).then(response => response.json()).then(data => console.log(data));
-
+```
 
 
 Here is how the same request works with axios
+```
 
 const url = 'https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCF'
 axios.get(url).then(response => console.log(response));
+```
 
 So by using axios you can cut out the middle step of passing the results of the http request to the .json() method. Axios just returns the data object you would expect.
 
@@ -39,8 +42,11 @@ The second issue is how .fetch() handles error responses. Logically you would th
 
 I have altered my url variable from the previous examples so that it is now incorrect. I would expect a 400 error at this point and for my .fetch() to go into the .catch() block but this is what happens instead.
 
+```
 const url = 'https://api.spotify.com/v1/artists/0OdUWJ0sBjDrqHygGUXeCFcdsds';
 fetch(url).catch(error => console.log('BAD', error)).then(response => console.log('GOOD', response));
+```
+
 I’ve added the ‘BAD’ and ‘GOOD’ strings in the responses to clarify what is happening here.
 
 
