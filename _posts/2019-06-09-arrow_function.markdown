@@ -72,10 +72,7 @@ That one case was most likely what the arrow functions were created for. And jus
  At 6 am my cup is empty, my cats are gone, the room is all stuffed with a bright sunlight, and the whole world of ES6 is flipped upside down. And it will never be the same…   
  
  
- Just for fun
- Exercises from Kyle Simpson: Go crazy with an arrow functions and rewrite them to an arrow function and get experience all this mess yourself.
-
-
+ 
 
 
 >**Just for fun**
