@@ -15,8 +15,9 @@ const  implisit=x+"";           // implisit==="54"
 In the second example we rely on Javascript behavior to coerse a number to a string. 
 
 There are two ways to compare values in Javascript:
-`==` - loose equality operator
-`===` - strict equality operator
+
+* `==` - loose equality operator
+* `===` - strict equality operator
 
 The main difference beetween two operators is that == coerses the types, while === requires types to be equivalent. 
 The rule of thumb is to never use == because you have to know exacly how every single thing coerses. Also, every single person who reads your code should have this knowledge as well. And some of them are mght be somewhat surprising.
@@ -38,7 +39,7 @@ null == undefined
 // => true
 ```
 
-The full coersing chart could be found ![here](https://live.staticflickr.com/65535/48031028181_3c0f68dd66_z.jpg). 
+The full coersing chart looks like this ![here](https://live.staticflickr.com/65535/48031028181_3c0f68dd66_z.jpg). 
 
 
 While == operator's behavior sometimes looks strange and makes little sense, === operator behaves totally logical and acurate as one could expect.
