@@ -1,26 +1,27 @@
 ---
 layout: post
 title:      "== vs. ==="
-date:       2019-03-15 02:29:17 +0000
+date:       2019-03-14 22:29:18 -0400
 permalink:  vs
 ---
 
 
 Javascript implements dynamic typing and typecasting.  We can coerse one type to another explicitly or let Javascript do it for us. 
-
+```
 const    x=54;
 const  explisit=String(x);  // explisit==="54"
 const  implisit=x+"";           // implisit==="54"
-
+```
 In the second example we rely on Javascript behavior to coerse a number to a string. 
 
 There are two ways to compare values in Javascript:
-== - loose equality operator
-=== - strict equality operator
+`==` - loose equality operator
+`===` - strict equality operator
 
 The main difference beetween two operators is that == coerses the types, while === requires types to be equivalent. 
 The rule of thumb is to never use == because you have to know exacly how every single thing coerses. Also, every single person who reads your code should have this knowledge as well. And some of them are mght be somewhat surprising.
 
+```
 2 == '42'
 // => true
  
@@ -35,11 +36,14 @@ null == undefined
  
 ' ' == 0
 // => true
+```
 
-The full coersing chart could be found [here](http://). 
+The full coersing chart could be found [here](https://live.staticflickr.com/65535/48031028181_3c0f68dd66_z.jpg). 
+
 
 While == operator's behavior sometimes looks strange and makes little sense, === operator behaves totally logical and acurate as one could expect.
 
+```
 42 === 42
 // => true
  
@@ -57,6 +61,6 @@ null === undefined
  
 ' ' === 0
 // => false
-
+```
 
 In conclusion, always use ===. It helps to avoid inaccuracy and to increase readability of your code. 
