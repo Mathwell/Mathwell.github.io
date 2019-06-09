@@ -80,7 +80,7 @@ That one case was most likely what the arrow functions were created for. And jus
 
 >**Just for fun**
 >
->Exercises from Kyle Simpson: Go crazy with and rewrite all bolow to arrow functions and get to experience all this >mess yourself.
+>Exercises from Kyle Simpson: Go crazy and rewrite all below to arrow functions and get to experience all this mess >yourself.
 
 ```
 function foo(x) {
