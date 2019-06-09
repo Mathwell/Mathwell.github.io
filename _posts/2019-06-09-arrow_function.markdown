@@ -36,8 +36,8 @@ It’s time to ask that one question: “Why exactly the arrow functions are a b
 *          `if.. else` - statement
 *          `for, while` - statements 
 3.	Implying return confusion ( not consistent)
-*          * `x=>3` <- implied
-*          * `x=>{return 3}` <- not implied
+*          `x=>3` <- implied
+*          `x=>{return 3}` <- not implied
 4.	Syntactical anonymousness
 *          can’t self-reference (recursion, event handler that needs to unbind itself)
 *          non-visible in a stack traces, so are non-debuggable
