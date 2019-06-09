@@ -57,7 +57,7 @@ var obj= {
      id:42;
      foo: function foo(){
 	   setTimeOut(()=>{
-              console.log(this.id) <- points to the right scope the extract the id from obj
+              console.log(this.id) <- points to the right scope to extract id property from obj
        },100)
     }
 }
