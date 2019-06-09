@@ -38,7 +38,7 @@ null == undefined
 // => true
 ```
 
-The full coersing chart could be found [here](https://live.staticflickr.com/65535/48031028181_3c0f68dd66_z.jpg). 
+The full coersing chart could be found ![here](https://live.staticflickr.com/65535/48031028181_3c0f68dd66_z.jpg). 
 
 
 While == operator's behavior sometimes looks strange and makes little sense, === operator behaves totally logical and acurate as one could expect.
