@@ -5,7 +5,7 @@ date:       2019-06-09 10:48:32 -0400
 permalink:  arrow_function
 ---
 
-### ONE SUNDAY MORNING WITH KYLE SIMSON – THE AUTHOR OF “YOU DO NOT KNOW JS: ES6 & BEYOND”
+### ONE SATURDAY MORNING WITH KYLE SIMSON – THE AUTHOR OF “YOU DO NOT KNOW JS: ES6 & BEYOND”
 
 ![](https://live.staticflickr.com/65535/48030459728_ca0428e9bf_z.jpg)
 
