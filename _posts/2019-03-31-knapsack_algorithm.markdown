@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Knapsack Algorithm"
-date:       2019-03-31 11:28:50 +0000
+date:       2019-03-31 07:28:51 -0400
 permalink:  knapsack_algorithm
 ---
 
@@ -17,6 +17,7 @@ Here is an implementation of this algorithm in Javascript.
 
 We have a limited amount in the wallet and munuItems with costs and calories assigned. What is the most calories we can buy with our money?
 
+```
 function recursiveKnapSack(wallet, menuItems) {
      const n = menuItems.length;
      if (wallet <= 0)  return 0;
@@ -56,4 +57,4 @@ function  nonRecursiveKnapSack( wallet, menuItems) {
          }
          return answers[wallet];
       }
-
+```
