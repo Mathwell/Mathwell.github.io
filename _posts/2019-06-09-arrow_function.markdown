@@ -47,7 +47,7 @@ It’s time to ask that one question: “Why exactly the arrow functions are a b
 6.	Decision flow chart. Is this the one you really want to run through every time you make a decision if to write an arrow function? The word “function” is definitely could be typed faster then going though all these steps.
 
  ![](https://live.staticflickr.com/65535/48030533587_f5e27bf8a1_z.jpg)
- [](https://likeahouseafire.com/2017/02/20/how-pronounce-fat-arrow/)
+ [lDecision Chart](https://likeahouseafire.com/2017/02/20/how-pronounce-fat-arrow/)
 
 
 There is one specific case, however, when arrow functions are actually very useful: when you need to invoke a function inside a function that is a parameter of an object itself than going one level up in the scope with “this” really helps.
