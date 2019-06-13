@@ -121,20 +121,16 @@ function foo(x) {
 <!-- Default Statcounter code for Hello World
 http://olena-ageyeva.com/ -->
 <script type="text/javascript">
-var sc_project=12025930; 
-var sc_invisible=0; 
-var sc_security="7640996c"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
+var sc_project=12025934; 
+var sc_invisible=1; 
+var sc_security="1da51dae"; 
 </script>
-<noscript><div class="statcounter"><a title="Web Analytics
-Made Easy - StatCounter" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12025930/0/7640996c/0/"
-alt="Web Analytics Made Easy -
-StatCounter"></a></div></noscript>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12025934/0/1da51dae/1/"
+alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
-<a href="https://statcounter.com/p12025930/?guest=1">View My
-Stats</a>
