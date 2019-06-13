@@ -6,6 +6,22 @@ permalink:  arrow_function
 ---
 
 ### ONE SATURDAY MORNING WITH KYLE SIMSON – THE AUTHOR OF “YOU DO NOT KNOW JS: ES6 & BEYOND”
+<!-- Default Statcounter code for Hello World
+http://olena-ageyeva.com/ -->
+<script type="text/javascript">
+var sc_project=12025934; 
+var sc_invisible=1; 
+var sc_security="1da51dae"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12025934/0/1da51dae/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
 
 ![](https://live.staticflickr.com/65535/48030459728_ca0428e9bf_z.jpg)
 
@@ -118,19 +134,4 @@ function foo(x) {
 })();
 ```
 
-<!-- Default Statcounter code for Hello World
-http://olena-ageyeva.com/ -->
-<script type="text/javascript">
-var sc_project=12025934; 
-var sc_invisible=1; 
-var sc_security="1da51dae"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12025934/0/1da51dae/1/"
-alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
+
