@@ -1,10 +1,27 @@
 ---
 layout: post
 title:      "Agile: Lean Startup"
-date:       2019-06-15 10:37:29 +0000
+date:       2019-06-15 06:37:30 -0400
 permalink:  agile_lean_startup
 ---
 
+
+<!-- Default Statcounter code for Hello World
+http://olena-ageyeva.com/ -->
+<script type="text/javascript">
+var sc_project=12025934; 
+var sc_invisible=1; 
+var sc_security="1da51dae"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12025934/0/1da51dae/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
 
 I started to learn Agile by pure eccident and now I am in love with this concept. It frees creativity and all sort of wild ideas in a very structured narrow way that is scientifically proven to give an outcome of much desired increased rate of business success on a large scale. It's giving you wings to fly to a destination which is not ambiguous - but very precise, detailed and even alive to the degree that you can talk to it. 
 
