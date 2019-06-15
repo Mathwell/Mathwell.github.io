@@ -5,7 +5,7 @@ date:       2019-06-15 06:37:30 -0400
 permalink:  agile_lean_startup
 ---
 
-###HOW DROPBOX WON THE WORLD
+### HOW DROPBOX WON THE WORLD
 <!-- Default Statcounter code for Hello World
 http://olena-ageyeva.com/ -->
 <script type="text/javascript">
