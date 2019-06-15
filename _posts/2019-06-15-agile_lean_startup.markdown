@@ -46,3 +46,23 @@ You know DropBox, don't you? Did you know that they have not initially received 
 
 
 *My take away from this is that the main mistake the business can make is to think they have a control over their product. False. Once it released to the wild users are the ones to control it. That is why businesses should include them in right from the start point. User's Persona should be alive and present through all the stages of the development and then and only then you have some ideas what would happen to your baby in the wild. In this case you will simply hand it to your now best friend - your very unique product user Persona.*
+
+<!-- Default Statcounter code for Hello World
+http://olena-ageyeva.com/ -->
+<script type="text/javascript">
+var sc_project=12025930; 
+var sc_invisible=0; 
+var sc_security="7640996c"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12025930/0/7640996c/0/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+<a href="https://statcounter.com/p12025930/?guest=1">View My
+Stats</a>
