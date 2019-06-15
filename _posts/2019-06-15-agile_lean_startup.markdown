@@ -6,7 +6,7 @@ permalink:  agile_lean_startup
 ---
 
 ### HOW DROPBOX WON THE WORLD
-![](https://live.staticflickr.com/65535/48066188082_5a6671f567_o_d.png)
+![](https://live.staticflickr.com/65535/48066213323_993d752b8b_o_d.png)
 
 <!-- Default Statcounter code for Hello World
 http://olena-ageyeva.com/ -->
