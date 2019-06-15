@@ -6,6 +6,7 @@ permalink:  arrow_function
 ---
 
 ### ONE SATURDAY MORNING WITH KYLE SIMSON – THE AUTHOR OF “YOU DO NOT KNOW JS: ES6 & BEYOND”
+![](https://live.staticflickr.com/65535/48030459728_ca0428e9bf_z.jpg)
 <!-- Default Statcounter code for Hello World
 http://olena-ageyeva.com/ -->
 <script type="text/javascript">
@@ -23,7 +24,7 @@ src="https://c.statcounter.com/12025934/0/1da51dae/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-![](https://live.staticflickr.com/65535/48030459728_ca0428e9bf_z.jpg)
+
 
 4 am on a Saturday morning. Just a perfect time to snuggle on a couch with a cup of coffee and a laptop surrounded by snoring cats and a soundly breathing retriever. It’s a perfect moment of serenity and integrity with self to appreciate the times we are living in when the best of geniuses are just a click away to enjoy their presence and a guiding touch. Just one light click with a finger will open up the universe to dive in and dissolve in a pure intellectual pleasure of sharp and daring ideas that challenge the trends and uncover the groupthinkers. 
 
