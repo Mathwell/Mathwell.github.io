@@ -6,6 +6,8 @@ permalink:  agile_lean_startup
 ---
 
 ### HOW DROPBOX WON THE WORLD
+![](https://live.staticflickr.com/65535/48066188082_5a6671f567_o_d.png)
+
 <!-- Default Statcounter code for Hello World
 http://olena-ageyeva.com/ -->
 <script type="text/javascript">
@@ -23,7 +25,6 @@ src="https://c.statcounter.com/12025934/0/1da51dae/1/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-![](https://live.staticflickr.com/65535/48065916981_e4dab5d171.jpg)
 
 I started to learn Agile by pure eccident and now I am in love with this concept. It frees creativity and all sort of wild ideas in a very structured narrow way that is scientifically proven to give an outcome of much desired increased rate of business success on a large scale. It's giving you wings to fly to a destination which is not ambiguous - but very precise, detailed and even alive to the degree that you can talk to it. 
 
@@ -31,6 +32,7 @@ Agile combines many approaches under it's umbrella. One of them is a quick and s
 
 The Lean Startup book and movement grew out of Eric Ries‘ work on applying the principals from the lean manufacturing movement to the creation of startups. The goal of lean manufacturing is to eliminate waste, ‘muda’ in Japanese. In this context, a startup is any venture that hasn’t yet validated a ‘product/market fit’, meaning they have a proposition they can reliably sell to a particular type of customer.
 
+![](https://live.staticflickr.com/65535/48065916981_e4dab5d171.jpg)
 
 The focal point of Lean Startup is the Build-Measure-Lean loop. It looks like it’s supposed to start with Build, but actually you’re supposed to start with Learn so you have high quality ideas that you’re testing.
 
