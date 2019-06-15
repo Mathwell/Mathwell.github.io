@@ -36,9 +36,9 @@ The focal point of Lean Startup is the Build-Measure-Lean loop. It looks like it
 
 You know DropBox, don't you? Did you know that they have not initially received financing ftom a bank, but were too excited about their idea to win the world that they came up with a cheap and quick way to test their big idea with very short funds in hand. Here is what they did.
 
-![](https://live.staticflickr.com/65535/48065910366_28a24d710b.jpg)
-![](https://live.staticflickr.com/65535/48065959293_8b00596801.jpg)
-![](https://live.staticflickr.com/65535/48065959278_2831f28676.jpg)
-![](https://live.staticflickr.com/65535/48065960781_8f1a2b7823.jpg)
+![](https://live.staticflickr.com/65535/48065910366_04e37f6a94_o_d.png)
+![](https://live.staticflickr.com/65535/48065959293_0e64a47805_o_d.png)
+![](https://live.staticflickr.com/65535/48065959293_0e64a47805_o_d.png)
+![](https://live.staticflickr.com/65535/48065960781_9cd3c8a016_o_d.png)
 
 *My take away from this is that the main mistake the business can make is to think they have control of their product. False. Once it released to the wild usre are the ones to control it. That is why businesses should include them in right from the start point. User's Persona should be alive and present through all the stages of development and then and only then you have some ideas what would happen to your baby in the wild. In this case you will simply hand it to your now best friend - your very unique product user Persona.*
