@@ -28,7 +28,7 @@ A caution for experts: The all, or universal, selector is extremely slow, except
 
 
  
-### *Trick#2. Font is a Shorthand Property*
+### **Trick#2. Font is a Shorthand Property**
 
 “Font” is a CSS shorthand property. Therefore, instead of writing all properties, you can just combine them all under one:
 
@@ -105,7 +105,7 @@ floated elements
 * cleared elements (They do not collapse their top margins with their parent block’s bottom margin.)
 the root element
 
-### **Trick 6. Opacity Can Change the z-index Stacking Order**
+### **Trick#6. Opacity Can Change the z-index Stacking Order**
 
 Say you have 3 divs, each positioned absolutely, containing another element with increasing z-index number. Each next one will appear on top of the previous one. If you add z-index: 10 to the first one, it will now appear on top of the other two, which remain ordered as before. So far all good. Now add “opacity: 0.99” to the first div and watch it get stacked under the other two. :)
 
