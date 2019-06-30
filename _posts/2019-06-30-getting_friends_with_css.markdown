@@ -28,7 +28,7 @@ A caution for experts: The all, or universal, selector is extremely slow, except
 
 
  
-### Trick#2. Font is a shorthand property
+### *Trick#2. Font is a Shorthand Property*
 
 “Font” is a CSS shorthand property. Therefore, instead of writing all properties, you can just combine them all under one:
 
@@ -50,7 +50,7 @@ h1 {
 
 
 
-### Trick#3. @supports for checking browser support
+### **Trick#3. @supports for Browser Support**
 
 You can use @supports feature query to check for browser support. As an example: if you wish to use “display:flex” only when it’s actually supported you can set it up like so:
 
@@ -63,7 +63,7 @@ You can use @supports feature query to check for browser support. As an example:
 ```
 
 
-### Trick#4. Lobotomized owl selector
+### **Trick#4. Lobotomized Owl Selector**
 
 [Lobotomized owl selector](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/) is the one to know for both using and reading someone's code:
  
@@ -88,7 +88,7 @@ li:last-of-type {
 }
 ```
 
-### Trick#5. Margins overlap, but only sometimes
+### **Trick#5. Margins Overlap, But Only Sometimes**
 
 So space between the following elements will be 20px, not 40px:
 
@@ -105,7 +105,7 @@ floated elements
 * cleared elements (They do not collapse their top margins with their parent block’s bottom margin.)
 the root element
 
-### Trick 6. Opacity can change the z-index stacking order
+### **Trick 6. Opacity Can Change the z-index Stacking Order**
 
 Say you have 3 divs, each positioned absolutely, containing another element with increasing z-index number. Each next one will appear on top of the previous one. If you add z-index: 10 to the first one, it will now appear on top of the other two, which remain ordered as before. So far all good. Now add “opacity: 0.99” to the first div and watch it get stacked under the other two. :)
 
@@ -174,7 +174,7 @@ document.getElementById('foo').onclick = function(){
 
 ```
 
-### Trick#7. Height: 100% may not do what you think it does
+### **Trick#7. Height: 100% May Not Do What You Think It Does**
 
 Same goes for “height: 100%”, in many cases this does not do what the developer expects, because parent element’s height is not set. So for example:
 
