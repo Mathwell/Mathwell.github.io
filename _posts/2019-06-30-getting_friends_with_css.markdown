@@ -1,12 +1,14 @@
 ---
 layout: post
 title:      "Getting Friends with CSS"
-date:       2019-06-30 08:54:57 +0000
+date:       2019-06-30 04:54:58 -0400
 permalink:  getting_friends_with_css
 ---
 
 
-Resently I've been thrown in the ocean with a tight dead line and almost no help on a project of styling a static web page to match a fancy design created by a graphic expert. Knowing little about css, I could not even estimate what a learning curve it would be! 
+![](https://live.staticflickr.com/65535/48158278027_549243e011_o_d.jpg)
+
+Resently I've been thrown in the ocean with a tight dead line and almost no help on a project of styling a static web page to match a fancy design created by a graphic expert. Knowing little about css, I could not even imagine what a learning curve it would be! 
 
 I'd like to share some tips and trics I've learned from my experience. I wish they were explained in many tutorials I watched - that would save me tons of time and stress. 
 
