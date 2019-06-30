@@ -16,7 +16,7 @@ I'd like to share some tips and tricks I've learned from my experience. I wish t
 
 ### **Trick#1. Red Borders to the Resque**
 
-Guessing all padding,  marging, positions and sizing could give you are great misery - trust me, I've been there. To save yourself sanity simply use this short jQuery in console. It really does the magic!
+Guessing all padding,  marging, positions and sizing could give you are great misery - trust me, I've been there. To save yourself sanity simply use this short jQuery in a Dev Tool console. It really does the magic!
 
 ```
 
@@ -24,9 +24,7 @@ $( "*" ).css( "border", "3px solid red" )
 
 ```
 
-![](https://live.staticflickr.com/65535/48158290871_16e10587e8_o_d.png)
-
-A caution for experts: The all, or universal, selector is extremely slow, except when used by itself. Source: [here](https://api.jquery.com/all-selector/).
+A caution for experts: The all, or universal, selector is extremely slow, except when used by itself.
 
 
  
