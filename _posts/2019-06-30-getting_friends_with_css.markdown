@@ -10,7 +10,7 @@ permalink:  getting_friends_with_css
 
 Recently I've been thrown in the ocean with a tight dead line and almost no help on a project of styling a static web page to match a fancy design created by a graphic expert. Knowing little about css, I could not even imagine what a learning curve it would be! 
 
-I'd like to share some tips and tricks I've learned from my experience. I wish they were explained in many tutorials I watched - that would save me tons of time and stress. 
+The overall learning process was good and positive experience. Even though I am still in a process of learning I already have some tricks and tips to share. They helped me a lot - I wish I knew them in the beginning of my css adventure. 
 
 
 
