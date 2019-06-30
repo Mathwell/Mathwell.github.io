@@ -14,7 +14,7 @@ I'd like to share some tips and trics I've learned from my experience. I wish th
 
 
 
-### Trick#1. Red Borders to the Resque
+### **Trick#1. Red Borders to the Resque**
 
 Guessing all padding,  marging, positions and sizing could give you are great misery - trust me, I've been there. To save yourself sanity simply use this short jQuery in console. It realy does the magic!
 
