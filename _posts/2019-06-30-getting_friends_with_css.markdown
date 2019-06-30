@@ -24,7 +24,9 @@ $( "*" ).css( "border", "3px solid red" )
 
 ```
 
-A caution for experts: The all, or universal, selector is extremely slow, except when used by itself.
+![](https://live.staticflickr.com/65535/48158290871_16e10587e8_o_d.png)
+
+A caution for experts: The all, or universal, selector is extremely slow, except when used by itself. Source: [here](https://api.jquery.com/all-selector/).
 
 
  
